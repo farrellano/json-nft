@@ -1,19 +1,19 @@
 {
-    "description": "Quien tenga este NFT tiene el trono de la Casa Stark", 
-    "external_url": "https://gameofthrones.fandom.com/wiki/House_Stark", 
-    "image": "http://diplomadouc.s3-website-sa-east-1.amazonaws.com/stark.png", 
-    "name": "Casa Stark",
+    "description": "Quien tenga este NFT seria un genio a posteriori", 
+    "external_url": "https://www.cleveritgroup.com/", 
+    "image": "https://raw.githubusercontent.com/farrellano/json-nft/main/karluiz.jpg", 
+    "name": "Rare Karluiz",
     "attributes": [
       {
         "trait_type": "Lema", 
-        "value": "Winter is Coming"
+        "value": "Como va bro"
       }, 
       {
-        "trait_type": "Totem", 
-        "value": "Lobo"
+        "trait_type": "Languaje", 
+        "value": "TypeScript"
       },
       {
-        "trait_type":"Capital",
-        "value": "Winterfell"
+        "trait_type":"Character",
+        "value": "Joker"
       }]
   }
