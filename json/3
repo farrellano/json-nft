@@ -1,0 +1,19 @@
+{
+    "description": "Quien tenga este NFT seria un genio a posteriori", 
+    "external_url": "https://www.cleveritgroup.com/", 
+    "image": "https://raw.githubusercontent.com/farrellano/json-nft/main/karluiz.jpg", 
+    "name": "Rare Karluiz",
+    "attributes": [
+      {
+        "trait_type": "Lema", 
+        "value": "Como va bro"
+      }, 
+      {
+        "trait_type": "Languaje", 
+        "value": "TypeScript"
+      },
+      {
+        "trait_type":"Character",
+        "value": "Joker"
+      }]
+  }
