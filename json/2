@@ -1,0 +1,19 @@
+{
+    "description": "Quien tenga este NFT", 
+    "external_url": "https://gameofthrones.fandom.com/wiki/House_Stark", 
+    "image": "http://diplomadouc.s3-website-sa-east-1.amazonaws.com/stark.png", 
+    "name": "Casa Stark",
+    "attributes": [
+      {
+        "trait_type": "Lema", 
+        "value": "Winter is Coming"
+      }, 
+      {
+        "trait_type": "Totem", 
+        "value": "Lobo"
+      },
+      {
+        "trait_type":"Capital",
+        "value": "Winterfell"
+      }]
+  }
